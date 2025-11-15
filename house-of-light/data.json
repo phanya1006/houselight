@@ -58,7 +58,7 @@
       "titre": "LIGHT CONFERENCE",
       "description": "Grande conférence d'enseignement",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczNE85nknvydcO5ADs9cMilWN5JX9Y3-mqXPv5fTRIlv-3AmDVofi5eVgA481xL_97iY-khl6fLiLWyvSG3ctaT4dK-vVQWKeDYGmzvzaGF1m6qCLTuuV25nCn5CcCiZjEmoIhje8uAdUhZrPfDxyJ0q=w1443-h962-s-no?authuser=1",
-      "album_link": "https://example.com/album-light-conference",
+      "album_link": "https://photos.app.goo.gl/FeU92FER2R8FVzWn8",
       "details": {
         "duree": "3 jours",
         "frequence": "Annuelle",
@@ -246,4 +246,5 @@
      
     }
   ]
+
 }
