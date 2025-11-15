@@ -1,0 +1,249 @@
+{
+  "evenements": [
+    {
+      "id": 1,
+      "date": "Dimanche 10:00-12:30",
+      "titre": "Culte Dominical",
+      "description": "ce dimanche: Blossom, vivez une transformation fleurissante en Christ, en participant à notre culte special.",
+      "images": [
+        "../images/dimanche.jpg",
+        "https://lh3.googleusercontent.com/pw/AP1GczNICIVT4YbniFZJeZaolW9Kmk5rDM_qf5p37VHbvAllG5pU2955sE9P-udQAHpH5x1ueSr2KSERrHGprScqAYcnxImbMq_iFd1g2mEt8d5ODG0iNIDpqdxH-AW2BuHREVHgLuz1PlOdx3kYvVEy3F3R=w1443-h962-s-no?authuser=0"
+      ]
+    },
+    {
+      "id": 2,
+      "date": "Lundi 16:00-17:00",
+      "titre": "Réunion de cellule",
+      "description": "Un temps dédié à la prière collective pour les besoins de l'église et de la communauté.",
+      "images": [
+        "../images/lundi1.jpg",
+        "../images/lundi2.jpg",
+        "../images/lundi3.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "date": "Mardi 16:00-17:45",
+      "titre": "Ciel ouvert",
+      "description": "Le mardi ciel ouvert est un moment dédié à la prière d'intercession.",
+      "images": [
+        "../images/mardi.jpg",
+        "https://lh3.googleusercontent.com/pw/AP1GczOHlPHF4yNkLQ7IcIg4ETE1gfRgNu6wfS9QqkHrefyNA9m37rAunJNRmm8p1dH1_uywsWZVy8qzqggHFJz2Pub7G_aRffSKJi6zPqNzm36l9TAMjPX-QkmpXJHfRRXq0YSEt9R8A7RkRqRC326d6cs7=w641-h962-s-no?authuser=0"
+      ]
+    },
+    {
+      "id": 4,
+      "date": "Jeudi 15:00-17:00",
+      "titre": "culte d'enseignement",
+      "description": "Le jeudi, nous avons un après-midi dedié à l'enseignement, un eneseigement de transformation.",
+      "images": [
+        "../images/jeudi.jpg",
+        "https://i.pinimg.com/1200x/4d/6b/3c/4d6b3c8bc2dfedd67708cceea2f62158.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "date": "1er Samedi du mois",
+      "titre": "Journée de Service Communautaire",
+      "description": "Nous sortons de nos murs pour servir notre communauté locale.",
+      "images": [
+        "https://i.pinimg.com/1200x/75/99/54/759954f3d22bb191f6d87d864930db6d.jpg",
+        "https://i.pinimg.com/736x/b9/04/e5/b904e5317a409293825b38efeef40522.jpg"
+      ]
+    }
+  ],
+  "programmes": [
+    {
+      "id": 1,
+      "titre": "LIGHT CONFERENCE",
+      "description": "Grande conférence d'enseignement",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczNE85nknvydcO5ADs9cMilWN5JX9Y3-mqXPv5fTRIlv-3AmDVofi5eVgA481xL_97iY-khl6fLiLWyvSG3ctaT4dK-vVQWKeDYGmzvzaGF1m6qCLTuuV25nCn5CcCiZjEmoIhje8uAdUhZrPfDxyJ0q=w1443-h962-s-no?authuser=1",
+      "album_link": "https://example.com/album-light-conference",
+      "details": {
+        "duree": "3 jours",
+        "frequence": "Annuelle",
+        "public": "Tous les membres",
+        "objectif": "Enseignement approfondi"
+      }
+    },
+    {
+      "id": 2,
+      "titre": "WOMEN ON THE FRONTLINE (WOF)",
+      "description": "Conférence des femmes",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczOwDzXgkhlhtKvQtMt9HV6jKj4926xzXQjnWww5EsJFoMu5m5eIBmZlJNJqMx69FsWY7c3FwBQWch1FHEvqXaXIPmSYm-8WuHvAe1F4w1ThOc6E0nG76d2riSj-vf_q6musPzFmzGeANkyveMFIMKw3=w1443-h962-s-no?authuser=0",
+      "album_link": "https://photos.app.goo.gl/mEWX46Cnf7s7bXMu5",
+      "details": {
+        "duree": "2 jours",
+        "frequence": "Annuelle",
+        "public": "Femmes",
+        "objectif": "Édification des femmes"
+      }
+    },
+    {
+      "id": 3,
+      "titre": "BRAVES",
+      "description": "Conférence des hommes",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczM35VA183IxVzmOYAl07_bsouRdeNQa33jI3S6Ij5IA7hO-FBsOvSBRkip2mSBKAdtukzxB-htnWIof9kjfrLWPh4CumbN3nL_mPGASlk3xJhpIrQ9Nq6Z1wxPWym-temwmIedQlWKr_0X6w5pn80t4=w1443-h962-s-no?authuser=0",
+      "album_link": "https://example.com/album-braves",
+      "details": {
+        "duree": "2 jours",
+        "frequence": "Annuelle",
+        "public": "Hommes",
+        "objectif": "Formation des leaders masculins"
+      }
+    },
+    {
+      "id": 4,
+      "titre": "COLOURS CONFERENCES",
+      "description": "Conférence des ados et des jeunes adultes",
+      "image": "../images/colour.jpg",
+      "album_link": "https://example.com/album-colours",
+      "details": {
+        "duree": "2 jours",
+        "frequence": "Annuelle",
+        "public": "Jeunes 12-25 ans",
+        "objectif": "Formation de la jeunesse"
+      }
+    },
+    {
+      "id": 5,
+      "titre": "LIGHT DAY CAMP & FESTIVAL",
+      "description": "Fête et retraite de la Maison de Lumière",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczO9MaxsnHopF-XtC-Zkw_OgK7aafVVh1hXDCMS0oRIW0OOB5eGBEfPgxvlDolXK2zxxKzzFt_TB4Vdu-fq__ZzDaS1kaZrNS1ITGDJ3tY0W7VAe9smJpJ9jPKHNlK1j0mf-Qutv5P_bDs_Pi-vRU-Yo=w1442-h962-s-no?authuser=0",
+      "album_link": "https://photos.app.goo.gl/52fQuPrdUiJe1fXh8",
+      "details": {
+        "duree": "1 journée",
+        "frequence": "Annuelle",
+        "public": "Toute l'église",
+        "objectif": "Communion et détente"
+      }
+    },
+    {
+      "id": 6,
+      "titre": "START 21",
+      "description": "21 jours de jeûne et prière au début de l'année",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczObaUU762RWynt_QqMhLy3HLvM43sC-Q009CAbG3qTZ1oG4m8i_8Y56Iu1-ypgPz8V_UawlmDh9hkYFa20D533SssjoRJHk5P8ceQTzHfc6NEouSbTXSG-Mj13YDMpDdMK9t7SHxI6ujkMAntiPlhWb=w1443-h962-s-no?authuser=1",
+      "album_link": "https://example.com/album-start21",
+      "details": {
+        "duree": "21 jours",
+        "frequence": "Annuelle",
+        "public": "Tous les membres",
+        "objectif": "Consécration et prière"
+      }
+    },
+    {
+      "id": 7,
+      "titre": "ANATOTH CONFERENCE",
+      "description": "Conférence sur les finances",
+      "image": "../images/finance.jpg",
+      "album_link": "https://example.com/album-anatoth",
+      "details": {
+        "duree": "1 journée",
+        "frequence": "Annuelle",
+        "public": "Tous les membres",
+        "objectif": "Enseignement biblique sur les finances"
+      }
+    }
+  ],
+  "leadership": [
+    {
+      "id": 1,
+      "nom": "Le Berger Aggelos Kevin Kamate",
+      "role": "Berger de l'église",
+      "description": "Guide spirituel et visionnaire de notre église.",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczMamxWxNo21sQsCYo-kBp0CfgLJlVUtqpzBRxy3ILDg51_UuFPYq7W8SSJBDcgoaL0Ay34sdOsr5lAHDyuPw_o0dEjnojIOO5eium9ewZBlDzQGLyZwdBKWWdfllgBaWz29Lh8txjiU5tw_KRdxPdJG=w1413-h942-s-no-gm?authuser=0",
+      "biographie": "Servant dévoué avec une passion pour l'œuvre de Dieu. Le Berger Aggelos Kevin Kamate apporte une riche expérience et un cœur de serviteur à notre communauté.",
+      "contact": {
+        "email": "maisondelumieregoma@gmail.com",
+        "telephone": "+243 824 873 583"
+      }
+    },
+    {
+      "id": 2,
+      "nom": "Maman Rachel Kamate",
+      "role": "Coordinatrice principale",
+      "description": "Épouse du responsable.",
+      "image": "../images/mr.jpg",
+      "biographie": "Servante dévouée avec un cœur pour l'œuvre de Dieu. Maman Rachel Kamate apporte son soutien et son expertise à la coordination des activités de l'église.",
+      "contact": {
+        "email": "maisondelumieregoma@gmail.com",
+        "telephone": "+243 907 651 154"
+      }
+    }
+  ],
+  "departements": [
+    {
+      "id": 1,
+      "nom": "Intercession",
+      "description": "Responsable: Soeur Prisca -Groupe de prière dédié qui intercède pour les besoins de l'église et de la communauté.",
+      "icon": "fas fa-pray",
+      "details": "Ministère de prière 24h/24 pour les besoins de l'église",
+      "images": [
+        "../images/inter.jpg",
+        "../images/inter2.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "nom": "Protocole",
+      "description": "Assure l'accueil, la sécurité et le bon déroulement de tous nos événements.",
+      "icon": "fas fa-user-tie",
+      "details": "Responsable du departement: Soeur Rachel",
+      "images": [
+        "https://lh3.googleusercontent.com/pw/AP1GczNJp9M_MZLn4OZPWBQBJIoOJ7hm3e1cxEMeos3vZc_C8A2IXUhuk-Il5wDQ_c-7E3uAFyjH9B45WK_mIbkYf1YizuwVHETn0lakRt_BkqCpTo0tXP9C5TXpKafW7DQi_hDfJUPMhoR_coSlvVz1kL6d=w1314-h962-s-no?authuser=1",
+        "https://lh3.googleusercontent.com/pw/AP1GczM77cG3ZiiqfN3xUDIZOyVPbYpk_h6Gl_xiTFxeBr2ujQQxKOtNFBZJnfTkQWCj_SszdQ7cXXqs_m8gnM3-AhgUtgsTqLByg3joWFvHoHSIACczXBR-F57mpn5mWcA-68TwPZI4kl-S8kYJ9AI81W4w=w641-h962-s-no?authuser=0"
+      ]
+    },
+    {
+      "id": 3,
+      "nom": "Enseignement & Formations",
+      "description": "Développe et dispense des programmes d'enseignement biblique et de formation.",
+      "icon": "fas fa-graduation-cap",
+      "details": "Formation biblique, introduction au ministère et développement des disciples"
+     
+    },
+    {
+      "id": 4,
+      "nom": "Médias & Communication",
+      "description": "Gère notre présence en ligne, les supports visuels et la communication interne.",
+      "icon": "fas fa-video",
+      "details": "Responsable du departement: Maman Rachel",
+      "images": [
+        "https://lh3.googleusercontent.com/pw/AP1GczNole47kLwBrESacIUqqWTTsOdF7NB1yJTY7PwX2jyKwFyux8-12woidZrLz2YB0TIgs_e2ZwKSvn0bns41yaCe4KHJmX7BeVrEn7fzB43qiSAMbGIoY5YjCCfwRgaA2qyjMtt_Mbb6W6iQQ-xi9Fcu=w1443-h962-s-no?authuser=1",
+        "https://lh3.googleusercontent.com/pw/AP1GczO2jjoWm841wPUeHa0ZCq7skVkNgWsNIHSZQt6AWDEQf_-mXlucyiQt-E_eOugaMO62KtnGw_1JgayTC1SuZaprlgko5lCA0t4pY6JAYOXRACA4ick0dyRnFF2Stn9Ymrp-9-csM7BI053vbCYFY_HP=w641-h962-s-no?authuser=1"
+      ]
+    },
+    {
+      "id": 5,
+      "nom": "Coordination",
+      "description": "Coordonne les activités et assure la logistique des différents ministères.",
+      "icon": "fas fa-tasks",
+      "details": "Coordination générale des activités"
+    
+    },
+    {
+      "id": 6,
+      "nom": "Chorale",
+      "description": "Anime nos temps d'adoration à travers la musique et le chant.",
+      "icon": "fas fa-music",
+      "details": "Ministère de louange et adoration"
+     
+    },
+    {
+      "id": 7,
+      "nom": "Creative Team",
+      "description": "S'occupe de l'habillage, du maquillage et de la coiffure pour nos événements.",
+      "icon": "fas fa-paint-brush",
+      "details": "Design et création visuelle"
+     
+    },
+    {
+      "id": 8,
+      "nom": "Finances",
+      "description": "Gère les ressources financières de l'église avec intégrité et transparence.",
+      "icon": "fas fa-chart-pie",
+      "details": "Gestion financière et comptabilité"
+     
+    }
+  ]
+}
